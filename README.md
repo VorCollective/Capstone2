@@ -207,5 +207,5 @@ This project is intended for educational and research purposes. Please ensure co
 
 #### Live Links
 
-- [Technical Article](https://bolt-vs-uber-analysis.hashnode.dev)
+- [Technical Article](https://lebensons.hashnode.dev/uber-vs-bolt-nairobi-pricing-analysis)
 - [Live App](https://uber-vs-bolt-analysis.lovable.app/analysis)
